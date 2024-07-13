@@ -1,7 +1,7 @@
 # France Road Accident Analysis
 
 ## Description
-Ce projet analyse les données des accidents de la route en France pour les années 2021 et 2022. L'objectif est de fournir des insights utiles et des visualisations claires pour mieux comprendre les tendances et les facteurs contribuant aux accidents de la route.
+Ce projet analyse les données des accidents de la route en France pour les années 2021 et 2022. L'objectif est de fournir des conclusions utiles et des visualisations claires pour mieux comprendre les tendances et les facteurs contribuant aux accidents de la route.
 
 ## Contenu
 - [Données]
